@@ -1,6 +1,6 @@
 # Python Portfolio
 
-A collection of Python projects from my undergraduate coursework and thesis research. My background is in Mathematics, so most of these projects apply Python to mathematical modeling, optimization, and data analysis — with a couple of exceptions built purely for practicing programming logic.
+A collection of Python projects from my undergraduate coursework and thesis research. My background is in Mathematics, so most of these projects apply Python to mathematical modeling, optimization, and data analysis.
 
 ## Recommended starting points
 
