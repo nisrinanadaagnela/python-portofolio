@@ -20,8 +20,7 @@ If you're short on time, these best represent my range of skills:
 | [dbscan-spatial-analysis](./dbscan-spatial-analysis) | Spatial analysis of weather station data in Canada using DBSCAN clustering, applied to identify potential areas for agroclimatology and tourism. |
 | [ar2-gold-price-prediction](./ar2-gold-price-prediction) | An AR(2) time series model to predict gold prices (per troy ounce) against the Indonesian Rupiah. |
 | [kkt-bond-optimization](./kkt-bond-optimization) | Optimization of bond sales strategy using the Karush-Kuhn-Tucker (KKT) method. |
-| [kkt-gui-optimizer](./kkt-gui-optimizer) | An interactive GUI tool (Tkinter) that solves general constrained optimization problems using the KKT method, with user-defined variables and constraints. |
-| [pert-cpm](./pert-cpm) | A project scheduling tool using PERT/CPM to visualize task timelines and identify the critical path — originally used to plan our own group project's workflow. |
+| [kkt-optimization-project](./kkt-optimization-project) | Group project on coffee production cost optimization using the KKT method — includes an interactive GUI solver (Tkinter) and a PERT/CPM scheduling tool used to plan the team's own workflow. |
 | [interval-halving-wind-prediction](./interval-halving-wind-prediction) | Wind speed prediction using multiple regression models, with hyperparameters optimized via the interval halving (bisection) method to minimize RMSE. |
 
 ## Common tools & libraries used
